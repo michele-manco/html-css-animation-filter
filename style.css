@@ -149,6 +149,7 @@ transform: scale(1.5);
   animation-duration: 3s;
   animation-timing-function: linear;
 }
+
 @keyframes botty {
   0% { right:20%; }
   50% { right: calc(100% - 80px); }
